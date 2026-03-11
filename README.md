@@ -186,11 +186,11 @@ SEVAMANDIR PBHSS Ramanattukara
   <img src="https://streak-stats.demolab.com?user=Rasi-P&theme=default&hide_border=true" />
 </div>
 
-<p align="center">
+<!-- <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Rasi-P&show_icons=true&theme=default&hide_border=true"/>
 
-</p>
+</p> -->
 
 <p align="center">
 
